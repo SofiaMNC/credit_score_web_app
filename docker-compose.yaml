@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  dashboard:
+    build: ./Dashboard
+    ports:
+      - "8501:8501"
+    depends_on: 
+      - api_server
+  api_server:
+    build: ./Server
+    ports: 
+      - "8080:8080"

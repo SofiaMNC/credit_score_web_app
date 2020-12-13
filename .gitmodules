@@ -1,0 +1,6 @@
+[submodule "credit_score_frontend"]
+	path = credit_score_frontend
+	url = https://github.com/madimedia/credit_score_frontend.git
+[submodule "credit_score_backend"]
+	path = credit_score_backend
+	url = https://github.com/madimedia/credit_score_backend.git
