@@ -1,12 +1,15 @@
 version: "3.9"
 services:
   dashboard:
-    build: ./Dashboard
+    build: ./credit_score_frontend
     ports:
       - "8501:8501"
+    container_name: dashboard
     depends_on: 
       - api_server
+
   api_server:
-    build: ./Server
+    build: ./credit_score_backend
     ports: 
       - "8080:8080"
+    container_name: api_server
