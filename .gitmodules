@@ -4,3 +4,6 @@
 [submodule "credit_score_backend"]
 	path = credit_score_backend
 	url = https://github.com/madimedia/credit_score_backend.git
+[submodule "credit_score_data_modeling"]
+	path = credit_score_data_modeling
+	url = https://github.com/madimedia/credit_score_data_modeling
