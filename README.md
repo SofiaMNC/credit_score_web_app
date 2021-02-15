@@ -1,5 +1,9 @@
 # Credit Scoring Web App
+*Sofia Chevrolat (November 2020)*
 
+> NB: This project is the 7th of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
+
+___
 ## Overview
 This credit scoring web app is based on the bank scoring data provided in the Home Credit Default Risk Kaggle competition hosted by the Home Credit Group. It provides an easy way to browse relevant data for each anonymized client, as well as their credit default risk score, a value predicted using a machine learning model created using the dataset.
 
