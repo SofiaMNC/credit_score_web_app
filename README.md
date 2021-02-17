@@ -5,12 +5,15 @@
 
 ___
 
-![](https://img.shields.io/badge/CODED_WITH-Python-3776AB?style=for-the-badge&logo=python)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 ![](https://img.shields.io/badge/USES-Docker-2496ED?style=for-the-badge&logo=Docker)
 
 ![](https://img.shields.io/badge/REST_API_SERVER-Heroku-430098?style=for-the-badge&logo=Heroku)
+![](https://img.shields.io/badge/CLIENT-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
+
 ![](https://img.shields.io/badge/DOCUMENTED_WITH-Swagger-85EA2D?style=for-the-badge&logo=Swagger)
-![](https://img.shields.io/badge/CLIENT_SIDE-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
+
 
 ## Overview
 This credit scoring web app is based on the bank scoring data provided in the Home Credit Default Risk Kaggle competition hosted by the Home Credit Group. It provides an easy way to browse relevant data for each anonymized client, as well as their credit default risk score, a value predicted using a machine learning model created using the dataset.
